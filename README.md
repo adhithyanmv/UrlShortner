@@ -6,7 +6,7 @@ It will return 3 newly made short urls and also have a option to save it in a fi
 #### Installation
 
 ``` console
-example@user:~$ git clone
+example@user:~$ git clone https://github.com/adhithyanmv/UrlShortner.git
 example@user:~$ cd UrlShortner
 example@user:~$ chmod +x *
 example@user:~$ ./urlShortner.sh www.example.com
